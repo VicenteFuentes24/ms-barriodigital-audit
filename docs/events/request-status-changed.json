@@ -1,0 +1,12 @@
+{
+  "eventId": "14a86b34-cd42-49ee-8ed3-00d98eeebd27",
+  "eventType": "REQUEST_STATUS_CHANGED",
+  "schemaVersion": 1,
+  "requestId": 1,
+  "requestVersion": 2,
+  "procedureId": "P-1",
+  "procedureName": "Permiso de circulación",
+  "previousStatus": "INGRESADO",
+  "status": "ADMITIDO",
+  "occurredAt": "2026-11-10T12:01:00Z"
+}

@@ -1,0 +1,12 @@
+{
+  "eventId": "4e29fb36-8f13-42ba-bd77-e35b4b565a20",
+  "eventType": "REQUEST_CREATED",
+  "schemaVersion": 1,
+  "requestId": 1,
+  "requestVersion": 1,
+  "procedureId": "P-1",
+  "procedureName": "Permiso de circulación",
+  "previousStatus": null,
+  "status": "INGRESADO",
+  "occurredAt": "2026-11-10T12:00:00Z"
+}
